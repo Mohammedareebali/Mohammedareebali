@@ -16,12 +16,13 @@ I'm a Full Stack Web Developer leveraging a background in the tech industry to b
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-🌱 I'm currently learning
+
+## 🌱 I'm currently learning
 Advanced Kubernetes
 GraphQL
-👨‍💻 Some of my projects
+## 👨‍💻 Some of my projects
 YelpCamp - A community-driven platform for camping enthusiasts.
 
-📫 How to reach me
+## 📫 How to reach me
 LinkedIn: Mohammed Areeb Ali
 Email: mohammedareebali740@gmail.com
