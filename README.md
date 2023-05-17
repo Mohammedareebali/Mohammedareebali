@@ -6,7 +6,6 @@ I'm a Full Stack Web Developer leveraging a background in the tech industry to b
 
 ## 🧰 Technologies & Tools
 
-```sh
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
@@ -18,11 +17,15 @@ I'm a Full Stack Web Developer leveraging a background in the tech industry to b
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 ## 🌱 I'm currently learning
-Advanced Kubernetes
-GraphQL
+
+* Advanced Kubernetes
+* GraphQL
+
 ## 👨‍💻 Some of my projects
-YelpCamp - A community-driven platform for camping enthusiasts.
+
+[YelpCamp](https://github.com/yourusername/yelpcamp) - A community-driven platform for camping enthusiasts.
 
 ## 📫 How to reach me
-LinkedIn: Mohammed Areeb Ali
-Email: mohammedareebali740@gmail.com
+
+* LinkedIn: [Mohammed Areeb Ali](https://linkedin.com/in/yourusername)
+* Email: [mohammedareebali740@gmail.com](mailto:mohammedareebali740@gmail.com)
