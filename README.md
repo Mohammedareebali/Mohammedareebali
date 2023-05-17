@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohammed Areeb Ali
 
-![banner](https://your-banner-image-url)
+![banner](file:///C:/Users/moham/Downloads/Version%20control-cuate.png)
 
 I'm a Full Stack Web Developer leveraging a background in the tech industry to build more intuitive user experiences on the web. Currently, I'm focusing on JavaScript technologies including React.js, Node.js, and Express.js.
 
