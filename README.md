@@ -23,7 +23,7 @@ I'm a Full Stack Web Developer leveraging a background in the tech industry to b
 
 ## 👨‍💻 Some of my projects
 
-[YelpCamp](https://github.com/yourusername/yelpcamp) - A community-driven platform for camping enthusiasts.
+[YelpCamp](https://github.com/mohammedareebali/camping) - A community-driven platform for camping enthusiasts.
 
 ## 📫 How to reach me
 
