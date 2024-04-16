@@ -15,13 +15,10 @@ I'm a Full Stack Web Developer leveraging a background in the tech industry to b
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
-## 🌱 I'm currently learning
-
-* Advanced Kubernetes
-* GraphQL
 
 ## 👨‍💻 Some of my projects
 
+[threads](https://threads-sable-phi.vercel.app) - A next-generation community platform for social environments.
 [YelpCamp](https://github.com/mohammedareebali/camping) - A community-driven platform for camping enthusiasts.
 
 ## 📫 How to reach me
