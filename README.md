@@ -19,6 +19,7 @@ I'm a Full Stack Web Developer leveraging a background in the tech industry to b
 ## 👨‍💻 Some of my projects
 
 [threads](https://threads-sable-phi.vercel.app) - A next-generation community platform for social environments.
+
 [YelpCamp](https://github.com/mohammedareebali/camping) - A community-driven platform for camping enthusiasts.
 
 ## 📫 How to reach me
