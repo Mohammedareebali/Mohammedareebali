@@ -24,5 +24,4 @@ Welcome to my digital workshop! 🚀 I'm a Full Stack Web Developer with a ferve
 - **LinkedIn**: [Mohammed Areeb Ali](https://linkedin.com/in/yourusername)
 - **Email**: [mohammedareebali740@gmail.com](mailto:mohammedareebali740@gmail.com)
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedareebali&show_icons=true&theme=radical&count_private=true)
 
