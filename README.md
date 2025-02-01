@@ -10,8 +10,6 @@ Welcome to my digital workshop! 🚀 I'm a **Frontend Leaning Software Developer
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![Express.js](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![TypeScript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![Twilio](https://img.shields.io/badge/Tools-Twilio-informational?style=flat&logo=twilio&logoColor=white&color=2bbc8a)
 ![Appwright](https://img.shields.io/badge/Tools-Appwright-informational?style=flat&logo=appwright&logoColor=white&color=2bbc8a)
@@ -19,20 +17,19 @@ Welcome to my digital workshop! 🚀 I'm a **Frontend Leaning Software Developer
 
 ## 👨‍💻 Some of My Projects
 
-- **[Threads](https://threads-sable-phi.vercel.app)**  
+- **[Threads](https://github.com/Mohammedareebali/threads)**  
   A next-generation community platform that emphasizes seamless interaction and social engagement.
 
-- **[Store It](https://github.com/Mohammedareebali/Mohammedareebali/tree/main)**  
+- **[Storage management system](https://github.com/Mohammedareebali/storage-mangment-system)**  
   A storage management and file-sharing platform that lets users effortlessly upload, organize, and share files.
 
-- **[Healthcare](https://github.com/Mohammedareebali/Mohammedareebali/tree/main)**  
+- **[Healthcare](https://github.com/Mohammedareebali/health-care)**  
  A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling,   confirming, and cancelling appointments, along with SMS notifications
 
-- **[Awards](https://github.com/Mohammedareebali/Mohammedareebali/tree/main)**  
+- **[Awards](https://github.com/Mohammedareebali/awards)**  
   A digital showcase celebrating excellence and achievements through innovative, interactive design.
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Mohammed Areeb Ali](https://linkedin.com/in/yourusername)
+- **LinkedIn**: [Mohammed Areeb Ali](https://www.linkedin.com/in/mohammed-areeb-ali/)
 - **Email**: [mohammedareebali740@gmail.com](mailto:mohammedareebali740@gmail.com)
-- **GitHub**: [Mohammedareebali](https://github.com/Mohammedareebali/Mohammedareebali/tree/main)
