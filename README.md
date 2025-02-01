@@ -1,27 +1,38 @@
 # 👋 Hello, I'm Mohammed Areeb Ali
 
-Welcome to my digital workshop! 🚀 I'm a Full Stack Web Developer with a fervent passion for coding and a knack for crafting seamless user interfaces. My background in tech drives my dedication to building more intuitive user experiences on the web. Currently, I'm diving deep into the exciting world of JavaScript technologies including React.js, Node.js, and Express.js.
+Welcome to my digital workshop! 🚀 I'm a **Frontend Leaning Software Developer** passionate about creating engaging, intuitive user experiences. I specialize in modern web technologies and design principles that bring seamless, responsive interfaces to life. My mission is to blend aesthetic design with robust functionality to craft applications that not only look great but also perform flawlessly.
 
 ## 🧰 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
+![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![Express.js](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![TypeScript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![Twilio](https://img.shields.io/badge/Tools-Twilio-informational?style=flat&logo=twilio&logoColor=white&color=2bbc8a)
+![Appwright](https://img.shields.io/badge/Tools-Appwright-informational?style=flat&logo=appwright&logoColor=white&color=2bbc8a)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
-## 👨‍💻 Some of my projects
+## 👨‍💻 Some of My Projects
 
-- **[Threads](https://threads-sable-phi.vercel.app)**: A next-generation community platform for social environments. Dive into a world where connectivity is seamless and intuitive.
-- **[YelpCamp](https://github.com/mohammedareebali/camping)**: A community-driven platform for camping enthusiasts. Join us under the stars!
+- **[Threads](https://threads-sable-phi.vercel.app)**  
+  A next-generation community platform that emphasizes seamless interaction and social engagement.
 
-## 📫 How to reach me
+- **[Store It](https://github.com/Mohammedareebali/Mohammedareebali/tree/main)**  
+  A user-friendly e-commerce solution designed to deliver a smooth, intuitive shopping experience.
+
+- **[Healthcare](https://github.com/Mohammedareebali/Mohammedareebali/tree/main)**  
+  A responsive platform dedicated to enhancing patient engagement and providing accessible healthcare solutions.
+
+- **[Awards](https://github.com/Mohammedareebali/Mohammedareebali/tree/main)**  
+  A digital showcase celebrating excellence and achievements through innovative, interactive design.
+
+## 📫 How to Reach Me
 
 - **LinkedIn**: [Mohammed Areeb Ali](https://linkedin.com/in/yourusername)
 - **Email**: [mohammedareebali740@gmail.com](mailto:mohammedareebali740@gmail.com)
-
-
+- **GitHub**: [Mohammedareebali](https://github.com/Mohammedareebali/Mohammedareebali/tree/main)
