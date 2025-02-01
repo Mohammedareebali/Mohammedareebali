@@ -23,10 +23,10 @@ Welcome to my digital workshop! 🚀 I'm a **Frontend Leaning Software Developer
   A next-generation community platform that emphasizes seamless interaction and social engagement.
 
 - **[Store It](https://github.com/Mohammedareebali/Mohammedareebali/tree/main)**  
-  A user-friendly e-commerce solution designed to deliver a smooth, intuitive shopping experience.
+  A storage management and file-sharing platform that lets users effortlessly upload, organize, and share files.
 
 - **[Healthcare](https://github.com/Mohammedareebali/Mohammedareebali/tree/main)**  
-  A responsive platform dedicated to enhancing patient engagement and providing accessible healthcare solutions.
+ A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling,   confirming, and cancelling appointments, along with SMS notifications
 
 - **[Awards](https://github.com/Mohammedareebali/Mohammedareebali/tree/main)**  
   A digital showcase celebrating excellence and achievements through innovative, interactive design.
